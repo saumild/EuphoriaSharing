@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/sd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4b27026ecb89f356abfe896e79ea117b/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/sd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4b27026ecb89f356abfe896e79ea117b/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/sd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4b27026ecb89f356abfe896e79ea117b/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/sd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4b27026ecb89f356abfe896e79ea117b/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/sd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4b27026ecb89f356abfe896e79ea117b/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/sd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4b27026ecb89f356abfe896e79ea117b/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/sd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4b27026ecb89f356abfe896e79ea117b/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/sd/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/80b5dcc7b838b1c56f6c27b53ec1cb87/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/sd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4b27026ecb89f356abfe896e79ea117b/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/sd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4b27026ecb89f356abfe896e79ea117b/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/sd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4b27026ecb89f356abfe896e79ea117b/res/color-v23/abc_tint_switch_track.xml"
+    }
+]

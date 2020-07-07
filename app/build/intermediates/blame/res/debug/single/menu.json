@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/menu/bottom.xml",
+        "source": "/home/sd/Project/app/src/main/res/menu/bottom.xml"
+    },
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/menu/options.xml",
+        "source": "/home/sd/Project/app/src/main/res/menu/options.xml"
+    },
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/menu/full_image_share.xml",
+        "source": "/home/sd/Project/app/src/main/res/menu/full_image_share.xml"
+    }
+]

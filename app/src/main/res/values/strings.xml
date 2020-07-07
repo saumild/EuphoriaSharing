@@ -1,6 +1,25 @@
 <resources>
-    <string name="app_name">EuphoriaSharing</string>
-    <string name="title_gallery">Gallery</string>
-    <string name="title_folder">Folder</string>
-    <string name="title_share">Share</string>
+    <string name="app_name">Project</string>
+    <string name="verified">Email Address Verified</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="verify_email">Send Verification Email</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="subscription_key">abdf02bdc4bd4e1aa09e56a70b2e441e</string>
+    <string name="endpoint">https://westcentralus.api.cognitive.microsoft.com/face/v1.0</string>
+    <!-- Main activity -->
+    <string name="detection">Detection</string>
+    <string name="face_verification">Face to Face Verification</string>
+    <string name="person_verification">Face to Person Verification</string>
+    <string name="verification">Verification</string>
+    <string name="identification">Identification</string>
+    <string name="grouping">Grouping</string>
+    <string name="find_similar_faces">Find Similar Faces</string>
+    <string name="detection_description">Detect faces, face landmarks, pose, smile, glasses, gender, and age.</string>
+    <string name="verification_description">Authentication between two faces or between a face and a person.</string>
+    <string name="grouping_description">Group faces based on similarity.</string>
+    <string name="find_similar_face_description">Search for similar-looking faces.</string>
+    <string name="identification_description">Identify the person from a face.</string>
+    <string name="add_subscription_key_tip_title">Subscription Key is Needed</string>
+    <string name="add_subscription_key_tip">Please put your subscription key with its corresponding endpoint to source file \"app/res/values/strings.xml\" to enable Face API calls.</string>
 </resources>

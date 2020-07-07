@@ -2,4 +2,9 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="email_not_verified">Email Not Verified</string>
+    <string name="check_verification_status">Check Verification Status</string>
+    <string name="sending_email">Sending Verification Email</string>
+    <string name="email_sent_success">Verification Email Send Successfully</string>
+    <string name="email_check">Please Check Your Inbox</string>
 </resources>

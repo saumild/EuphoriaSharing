@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/sd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4b27026ecb89f356abfe896e79ea117b/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/sd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4b27026ecb89f356abfe896e79ea117b/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/sd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4b27026ecb89f356abfe896e79ea117b/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/sd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4b27026ecb89f356abfe896e79ea117b/res/layout-v21/notification_action.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/sd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4b27026ecb89f356abfe896e79ea117b/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/sd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4b27026ecb89f356abfe896e79ea117b/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/sd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4b27026ecb89f356abfe896e79ea117b/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/sd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4b27026ecb89f356abfe896e79ea117b/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/sd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4b27026ecb89f356abfe896e79ea117b/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/sd/Project/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/sd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/4b27026ecb89f356abfe896e79ea117b/res/layout-v11/notification_template_big_media_narrow.xml"
+    }
+]

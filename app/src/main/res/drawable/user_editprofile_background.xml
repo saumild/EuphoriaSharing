@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <!-- solid background -->
+            <solid android:color="#f1f0ef"/>
+            <!-- border-->
+
+
+            <corners android:radius="20dp"/>
+
+            <!-- different corners with different radius-->
+            <!--corners
+                android:bottomLeftRadius="5dp"
+                android:topLeftRadius="10dp"
+                android:topRightRadius="15dp"
+                android:bottomRightRadius="20dp"
+                /-->
+        </shape>
+    </item>
+    <item
+        android:left="0dp"
+        android:right="0dp"
+        android:top="2dp"
+        android:bottom="2dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#e2e0de"/>
+            <corners android:radius="1dp" />
+        </shape>
+    </item>
+</selector>
